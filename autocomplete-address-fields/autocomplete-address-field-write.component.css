@@ -1,0 +1,13 @@
+@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+.custom-address-autocomplete-input {
+    border: 0;
+    border-bottom: 2px dashed red;
+    padding: .2em;
+    font-weight: 700;
+    font-size: 3em;
+    width: 100%;
+    color: red;
+}
+
+
